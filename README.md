@@ -1,0 +1,1 @@
+ This is a responsive and modern fitness-themed website designed to provide users with workout routines, nutrition advice, and a platform to engage with a community focused on health and wellness. The site is built using HTML, CSS, and Bootstrap, making it both visually appealing and user-friendly across all devices.
